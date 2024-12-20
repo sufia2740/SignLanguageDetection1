@@ -1,4 +1,4 @@
-#Sign Language Detection Project
+#Sign Language Detection Project#
 
 ##Overview
 
